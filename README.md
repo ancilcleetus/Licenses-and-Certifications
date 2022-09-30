@@ -9,4 +9,11 @@
 |	05 | Python Data Science Toolbox (Part 2)	| [DataCamp](https://www.datacamp.com/) | Dec 2020 | https://www.datacamp.com/statement-of-accomplishment/course/38640312e5244a6d1144b9d641bf79f5584b6a43 | ✔️ | 
 |	06 | Python Fundamentals Skill Track | [DataCamp](https://www.datacamp.com/) | Dec 2020 | https://www.datacamp.com/statement-of-accomplishment/track/a2bdbdd0422c54f423402c8ecc6d82fb9e822aab | ✔️ | 
 |	07 | Python for Data Science: Fundamentals | [Dataquest](https://www.dataquest.io/) | Dec 2020 | https://app.dataquest.io/view_cert/JJ2X88JPKV9X175JS9WA/ | ✔️ | 
+|	08 | Introduction to Deep Learning in Python | [DataCamp](https://www.datacamp.com/) | Jan 2021 | https://www.datacamp.com/statement-of-accomplishment/course/d73d1a3f8a126b654d50923efaf0da4f648dce7f | ✔️ | 
+|	09 | Introduction to TensorFlow in Python | [DataCamp](https://www.datacamp.com/) | Jan 2021 | https://www.datacamp.com/statement-of-accomplishment/course/7dcdf840990aa2dc8a400967ff501e1a7994ceb9 | ✔️ | 
+|	10 | Introduction to Deep Learning with PyTorch | [DataCamp](https://www.datacamp.com/) | Jan 2021 | https://www.datacamp.com/statement-of-accomplishment/course/50720474771fb754332733b118e4fac626167978 | ✔️ | 
+|	11 | Introduction to Deep Learning with Keras | [DataCamp](https://www.datacamp.com/) | Jan 2021 | https://www.datacamp.com/statement-of-accomplishment/course/483732ece43f16b9d584b6d6a1d9b77c72c060eb | ✔️ | 
+|	12 | Advanced Deep Learning with Keras | [DataCamp](https://www.datacamp.com/) | Jan 2021 | https://www.datacamp.com/statement-of-accomplishment/course/e7103b808dd3b5fc38d0e1f51fad1c0c659e0c70 | ✔️ | 
+|	13 | Deep Learning in Python Skill Track | [DataCamp](https://www.datacamp.com/) | Jan 2021 | https://www.datacamp.com/statement-of-accomplishment/track/99e510cfcdea1237c0fa9e3e79709cce6acfa8bc | ✔️ | 
+|	14 | Elements of AI - Introduction to AI | [University of Helsinki](https://www.mooc.fi/en/) | Jan 2021 | https://certificates.mooc.fi/validate/coefugtwkrq | ✔️ | 
 
