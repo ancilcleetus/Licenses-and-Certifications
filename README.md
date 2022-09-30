@@ -1,7 +1,7 @@
 # Licenses-and-Certifications
 
 |	No  | License/Certification | Organization | Issue Date | Done | Credential URL | 
-|	--- | --------------------- | ------------ | ---------- | ---- | :------------: | 
+|	--- | --------------------- | ------------ | ---------- | ---- | :------------- | 
 |	001 | Machine Learning for Everyone	| [DataCamp](https://www.datacamp.com/) | Dec 2020 | ✔️ | https://www.datacamp.com/statement-of-accomplishment/course/e7db536b527d264f66c9d4fac98458b8e149543e | 
 |	002 | Introduction to Python	| [DataCamp](https://www.datacamp.com/) | Dec 2020 | ✔️ | https://www.datacamp.com/statement-of-accomplishment/course/35f106207201ea3a20c8c93d4f4aaca2b92e5d96 | 
 |	003 | Intermediate Python	| [DataCamp](https://www.datacamp.com/) | Dec 2020 | ✔️ | https://www.datacamp.com/statement-of-accomplishment/course/c443d397010f1e2dc8f4e73c5af35207e87f4ccb | 
