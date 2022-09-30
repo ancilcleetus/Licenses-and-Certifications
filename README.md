@@ -16,4 +16,7 @@
 |	12 | Advanced Deep Learning with Keras | [DataCamp](https://www.datacamp.com/) | Jan 2021 | ✔️ | https://www.datacamp.com/statement-of-accomplishment/course/e7103b808dd3b5fc38d0e1f51fad1c0c659e0c70 | 
 |	13 | Deep Learning in Python Skill Track | [DataCamp](https://www.datacamp.com/) | Jan 2021 | ✔️ | https://www.datacamp.com/statement-of-accomplishment/track/99e510cfcdea1237c0fa9e3e79709cce6acfa8bc | 
 |	14 | Elements of AI - Introduction to AI | [University of Helsinki](https://www.mooc.fi/en/) | Jan 2021 | ✔️ | https://certificates.mooc.fi/validate/coefugtwkrq | 
-
+|	15 | Introduction to Programming | [Log2Base2](https://log2base2.com/) | Mar 2022 | ✔️ | https://log2base2.com/Assets/Certificates/ancilcleetus.personal/Introduction%20to%20Programming | 
+|	16 | C Programming | [Log2Base2](https://log2base2.com/) | Mar 2022 | ✔️ | https://log2base2.com/Assets/Certificates/ancilcleetus.personal/C%20Programming | 
+|	17 | Pointers in C | [Log2Base2](https://log2base2.com/) | Apr 2022 | ✔️ | https://log2base2.com/Assets/Certificates/ancilcleetus.personal/Pointers%20in%20C | 
+|	18 | Python | [Log2Base2](https://log2base2.com/) | Apr 2022 | ✔️ | https://log2base2.com/Assets/Certificates/ancilcleetus.personal/Python | 
