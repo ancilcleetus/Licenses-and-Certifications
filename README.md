@@ -3,7 +3,7 @@
 |	No  | License/Certification | Organization | Issue Date | Done | Credential URL | 
 |	--- | --------------------- | ------------ | ---------- | ---- | :------------- | 
 |	023 | Complete Python Developer in 2023: Zero to Mastery | [ZeroToMastery](https://zerotomastery.io/) | Jan 2023 | ⬜ | https://zerotomastery.io/courses/learn-python/ | 
-|	022 | Learn Python | [BootDev](https://boot.dev/) | Dec 2022 | ✔️ | https://boot.dev/certificate/ancilcleetus/f9a25dfb-3e00-4727-ac78-36de82315355 | 
+|	022 | Pandas | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/pandas | 
 |	021 | Intro to Machine Learning | [Kaggle](https://www.kaggle.com/) | Dec 2022 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/intro-to-machine-learning | 
 |	020 | Python | [Kaggle](https://www.kaggle.com/) | Dec 2022 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/python | 
 |	019 | Intro to Programming | [Kaggle](https://www.kaggle.com/) | Dec 2022 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/intro-to-programming | 
