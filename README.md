@@ -2,7 +2,8 @@
 
 |	No  | License/Certification | Organization | Issue Date | Done | Credential URL | 
 |	--- | --------------------- | ------------ | ---------- | ---- | :------------- | 
-|	024 | Complete Python Developer in 2023: Zero to Mastery | [ZeroToMastery](https://zerotomastery.io/) | Jan 2023 | ⬜ | https://zerotomastery.io/courses/learn-python/ | 
+|	025 | Complete Python Developer in 2023: Zero to Mastery | [ZeroToMastery](https://zerotomastery.io/) | Jan 2023 | ⬜ | https://zerotomastery.io/courses/learn-python/ | 
+|	024 | Intro to AI Ethics | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/intro-to-ai-ethics | 
 |	023 | Data Visualization | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/data-visualization | 
 |	022 | Pandas | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/pandas | 
 |	021 | Intro to Machine Learning | [Kaggle](https://www.kaggle.com/) | Dec 2022 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/intro-to-machine-learning | 
