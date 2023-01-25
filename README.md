@@ -2,7 +2,8 @@
 
 |	No  | License/Certification | Organization | Issue Date | Done | Credential URL | 
 |	--- | --------------------- | ------------ | ---------- | ---- | :------------- | 
-|	028 | Complete Python Developer in 2023: Zero to Mastery | [ZeroToMastery](https://zerotomastery.io/) | Jan 2023 | ⬜ | https://zerotomastery.io/courses/learn-python/ | 
+|	0xx | Complete Python Developer in 2023: Zero to Mastery | [ZeroToMastery](https://zerotomastery.io/) | Feb 2023 | ⬜ | https://zerotomastery.io/courses/learn-python/ | 
+|	028 | Data Cleaning | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/data-cleaning | 
 |	027 | Building Video AI Applications at the Edge on Jetson Nano | [NVIDIA](https://nvidia.com/) | Jan 2023 | ✔️ | https://courses.nvidia.com/certificates/1f2a019875a24858af69f80430b25baf/ | 
 |	026 | Getting Started with AI on Jetson Nano | [NVIDIA](https://nvidia.com/) | Jan 2023 | ✔️ | https://courses.nvidia.com/certificates/1885ac8faa974631b78275c26896f4c4/ | 
 |	025 | Machine Learning Explainability | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/machine-learning-explainability | 
