@@ -2,7 +2,7 @@
 
 |	No  | License/Certification | Organization | Issue Date | Done | Credential URL | 
 |	--- | --------------------- | ------------ | ---------- | ---- | :------------- | 
-|	0xx | Complete Python Developer in 2023: Zero to Mastery | [ZeroToMastery](https://zerotomastery.io/) | Feb 2023 | ⬜ | https://zerotomastery.io/courses/learn-python/ | 
+|	0xx | Name of License/Certification | [Organization](https://organization.io/) | Issue Date | ⬜ | https://organization.io/courses/become-a-master-in-generative-ai/ | 
 |	030 | Internet Fundamentals | [CodeDamn](https://codedamn.com/) | Feb 2023 | ✔️ | https://codedamn.com/certificate/verify/268bb01d99b823db3e39dc626a8d471f6b1e8af7 | 
 |	029 | Geospatial Analysis | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/geospatial-analysis | 
 |	028 | Data Cleaning | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/data-cleaning | 
