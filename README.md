@@ -2,14 +2,14 @@
 
 |	No  | License/Certification | Organization | Issue Date | Done | Credential URL | 
 |	--- | --------------------- | ------------ | ---------- | ---- | :------------- | 
-|	030 | Internet Fundamentals | [CodeDamn](https://codedamn.com/) | Feb 2023 | ✔️ | https://codedamn.com/certificate/verify/268bb01d99b823db3e39dc626a8d471f6b1e8af7 | 
-|	029 | Geospatial Analysis | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/geospatial-analysis | 
+|	030 | Internet Fundamentals | [CodeDamn](https://codedamn.com/) | Feb 2023 | ✔️✅ | https://codedamn.com/certificate/verify/268bb01d99b823db3e39dc626a8d471f6b1e8af7 | 
+|	029 | Geospatial Analysis | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✅ | https://www.kaggle.com/learn/certification/ancilcleetus/geospatial-analysis | 
 |	028 | Data Cleaning | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/data-cleaning | 
-|	027 | Building Video AI Applications at the Edge on Jetson Nano | [NVIDIA](https://nvidia.com/) | Jan 2023 | ✔️ | https://courses.nvidia.com/certificates/1f2a019875a24858af69f80430b25baf/ | 
+|	027 | Building Video AI Applications at the Edge on Jetson Nano | [NVIDIA](https://nvidia.com/) | Jan 2023 | ✅ | https://courses.nvidia.com/certificates/1f2a019875a24858af69f80430b25baf/ | 
 |	026 | Getting Started with AI on Jetson Nano | [NVIDIA](https://nvidia.com/) | Jan 2023 | ✔️ | https://courses.nvidia.com/certificates/1885ac8faa974631b78275c26896f4c4/ | 
 |	025 | Machine Learning Explainability | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/machine-learning-explainability | 
 |	024 | Intro to AI Ethics | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/intro-to-ai-ethics | 
-|	023 | Data Visualization | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/data-visualization | 
+|	023 | Data Visualization | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✅ | https://www.kaggle.com/learn/certification/ancilcleetus/data-visualization | 
 |	022 | Pandas | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/pandas | 
 |	021 | Intro to Machine Learning | [Kaggle](https://www.kaggle.com/) | Dec 2022 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/intro-to-machine-learning | 
 |	020 | Python | [Kaggle](https://www.kaggle.com/) | Dec 2022 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/python | 
