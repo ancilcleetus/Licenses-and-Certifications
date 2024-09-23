@@ -2,7 +2,6 @@
 
 |	No  | License/Certification | Organization | Issue Date | Done | Credential URL | 
 |	--- | --------------------- | ------------ | ---------- | ---- | :------------- | 
-|	0xx | Name of License/Certification | [Organization](https://organization.io/) | Issue Date | ⬜ | https://organization.io/courses/become-a-master-in-generative-ai/ | 
 |	030 | Internet Fundamentals | [CodeDamn](https://codedamn.com/) | Feb 2023 | ✔️ | https://codedamn.com/certificate/verify/268bb01d99b823db3e39dc626a8d471f6b1e8af7 | 
 |	029 | Geospatial Analysis | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/geospatial-analysis | 
 |	028 | Data Cleaning | [Kaggle](https://www.kaggle.com/) | Jan 2023 | ✔️ | https://www.kaggle.com/learn/certification/ancilcleetus/data-cleaning | 
@@ -33,4 +32,5 @@
 |	003 | Introduction to Python	| [DataCamp](https://www.datacamp.com/) | Dec 2020 | ✔️ | https://www.datacamp.com/statement-of-accomplishment/course/35f106207201ea3a20c8c93d4f4aaca2b92e5d96 | 
 |	002 | Machine Learning for Everyone	| [DataCamp](https://www.datacamp.com/) | Dec 2020 | ✔️ | https://www.datacamp.com/statement-of-accomplishment/course/e7db536b527d264f66c9d4fac98458b8e149543e | 
 |	001 | Python for Data Science: Fundamentals | [Dataquest](https://www.dataquest.io/) | Dec 2020 | ✔️ | https://app.dataquest.io/view_cert/JJ2X88JPKV9X175JS9WA/ | 
+|	0xx | Name of License/Certification | [Organization](https://organization.io/) | Issue Date | ⬜ | https://organization.io/courses/become-a-master-in-generative-ai/ | 
 
